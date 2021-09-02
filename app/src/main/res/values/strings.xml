@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Miusix</string>
+    <string name="just_a_logo">Just a Logo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="deka">Deka Primatio Deandra</string>
+    <string name="nim">00000032864</string>
+    <string name="kelas">DL</string>
+    <string name="referensi">Referensi :</string>
+    <string name="youtube">Youtube :</string>
+    <string name="website">Website :</string>
+    <string name="ytlink"><![CDATA[https://www.youtube.com/watch?v=bsXaM4G4D_w&list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ]]></string>
+    <string name="wblink1">https://www.udemy.com/course/full-android-course-with-14-real-apps-42-hours/</string>
+    <string name="logout">Logout</string>
+</resources>
